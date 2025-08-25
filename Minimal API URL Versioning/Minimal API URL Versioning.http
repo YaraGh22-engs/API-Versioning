@@ -1,0 +1,15 @@
+@Minimal_API_URL_Versioning_HostAddress = http://localhost:5053
+
+ 
+###
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+
+###
+GET {{Minimal_API_URL_Versioning_HostAddress}}/api/products/{{productId}}
+
+###
+GET {{Minimal_API_URL_Versioning_HostAddress}}/api/v1/products/{{productId}}
+
+###
+GET {{Minimal_API_URL_Versioning_HostAddress}}/api/v2/products/{{productId}}

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Header Versionin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Media Type Versioning", "Controller Media Type Versioning\Controller Media Type Versioning.csproj", "{D3483823-E142-4F5E-9B93-D0660A7B4BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal API URL Versioning", "Minimal API URL Versioning\Minimal API URL Versioning.csproj", "{75B6E073-07E1-4CD1-8FB8-BE374FA0A5E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B6E073-07E1-4CD1-8FB8-BE374FA0A5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B6E073-07E1-4CD1-8FB8-BE374FA0A5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B6E073-07E1-4CD1-8FB8-BE374FA0A5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B6E073-07E1-4CD1-8FB8-BE374FA0A5E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
