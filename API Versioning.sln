@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36401.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller - URL Versioning", "Controller - URL Versioning\Controller - URL Versioning.csproj", "{4F512560-0D16-456B-A767-9E8C77A955E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Query String Versioning", "Controller Query String Versioning\Controller Query String Versioning.csproj", "{9044E1DE-2217-432A-B3BA-F2160F444E08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F512560-0D16-456B-A767-9E8C77A955E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F512560-0D16-456B-A767-9E8C77A955E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F512560-0D16-456B-A767-9E8C77A955E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9044E1DE-2217-432A-B3BA-F2160F444E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9044E1DE-2217-432A-B3BA-F2160F444E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9044E1DE-2217-432A-B3BA-F2160F444E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9044E1DE-2217-432A-B3BA-F2160F444E08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

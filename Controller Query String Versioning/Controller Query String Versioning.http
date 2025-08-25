@@ -1,0 +1,14 @@
+@Controller_Query_String_Versioning_HostAddress = http://localhost:5191
+
+
+###
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+###
+GET {{Controller_Query_String_Versioning_HostAddress}}/api/products/{{productId}}
+
+###
+GET {{Controller_Query_String_Versioning_HostAddress}}/api/products/{{productId}}?api-version=1.0
+
+###
+GET {{Controller_Query_String_Versioning_HostAddress}}/api/products/{{productId}}?api-version=2.0
