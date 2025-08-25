@@ -1,0 +1,6 @@
+@Controller___URL_Versioning_HostAddress = http://localhost:5039
+
+GET {{Controller___URL_Versioning_HostAddress}}/
+Accept: application/json
+
+###
