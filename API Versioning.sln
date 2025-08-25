@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Query String Ver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Header Versioning", "Controller Header Versioning\Controller Header Versioning.csproj", "{5FE864BE-7F21-4126-9466-0FD3E8EFF477}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Media Type Versioning", "Controller Media Type Versioning\Controller Media Type Versioning.csproj", "{D3483823-E142-4F5E-9B93-D0660A7B4BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5FE864BE-7F21-4126-9466-0FD3E8EFF477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE864BE-7F21-4126-9466-0FD3E8EFF477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE864BE-7F21-4126-9466-0FD3E8EFF477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3483823-E142-4F5E-9B93-D0660A7B4BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

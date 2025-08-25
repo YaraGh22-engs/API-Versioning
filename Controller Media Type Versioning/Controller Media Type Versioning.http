@@ -1,0 +1,16 @@
+@Controller_Media_Type_Versioning_HostAddress = http://localhost:5181
+ 
+###
+
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+###
+GET {{Controller_Media_Type_Versioning_HostAddress}}/api/products/{{productId}}
+
+###
+GET {{Controller_Media_Type_Versioning_HostAddress}}/api/products/{{productId}}
+Accept: application/json;v=1.0
+
+###
+GET {{Controller_Media_Type_Versioning_HostAddress }}/api/products/{{productId}}
+Accept: application/json;v=2.0
