@@ -1,6 +1,15 @@
 @Controller___URL_Versioning_HostAddress = http://localhost:5039
 
-GET {{Controller___URL_Versioning_HostAddress}}/
-Accept: application/json
 
 ###
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+
+###
+GET {{Controller___URL_Versioning_HostAddress}}/api/products/{{productId}}
+
+###
+GET {{Controller___URL_Versioning_HostAddress}}/api/v1/products/{{productId}}
+
+###
+GET {{Controller___URL_Versioning_HostAddress}}/api/v2/products/{{productId}}
